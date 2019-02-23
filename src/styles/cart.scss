@@ -1,0 +1,27 @@
+.kart-wrapper{
+  display: relative;
+  width: 40px;
+  height: 40px;
+}
+
+.kart-button{
+  position: relative;
+  width: 40px;
+  height: 40px;
+  background-image: url(../img/shopping-cart.svg);
+  background-size: cover;
+}
+
+.kart-status{
+  top: -10px;
+  right: -30px;
+  width: 25px;
+  height: 25px;
+  background-color: red;
+  position: absolute;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}

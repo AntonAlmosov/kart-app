@@ -1,0 +1,16 @@
+.cart-modal{
+  top: 50px;
+  right: 0px;
+  width: 300px;
+  padding: 20px;
+  position: absolute;
+  border: 1px solid black;
+  background-color: white;
+  z-index: 2;
+}
+
+.cart-modal-remove-product{
+  width: 20px;
+  height: 20px;
+  background-color: black;
+}

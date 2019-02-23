@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = ({children}) =>
 
-  <div>
+  <div className='header-wrapper'>
     <div className='header-logo'>LOGO</div>
     {children}
   </div>
