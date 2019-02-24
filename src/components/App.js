@@ -7,10 +7,6 @@ import Header from './Header'
 import Cart from './Cart'
 import Products from './Products'
 
-
-//Стилилизовать это все
-//Добавить хендлер если корзина пустая
-
 class App extends Component {
   constructor() {
     super()
